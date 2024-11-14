@@ -48,7 +48,7 @@ plugins {
 
 sonar {
   properties {
-    property "sonar.projectKey", "DemoSonarDSS"
-    property "sonar.projectName", "DemoSonarDSS"
+    property "sonar.projectKey", "AltoroJ"
+    property "sonar.projectName", "AltoroJ"
   }
 }
